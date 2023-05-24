@@ -1,9 +1,9 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'libFLAC-framework'
+  s.name             = 'FLAC-framework'
   s.version          = '1.4.2-2'
-  s.summary          = 'libFLAC'
-  s.description      = 'libFLAC as a universal framwork'
+  s.summary          = 'FLAC universal framework for macOS'
+  s.description      = 'libFLAC as a macOS universal framwork'
   s.homepage         = 'https://xiph.org/flac'
   s.license          = { :file => './LICENSE', :type => 'BSD' }
   s.author           = { 'Nicolas Bonamy' => 'nbonamy@gmail.com' }
